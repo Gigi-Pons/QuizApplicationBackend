@@ -64,7 +64,10 @@ Allows users to retrieve quiz questions by providing a specific quiz ID.
 ### **quiz/submit{id}**
 Allows users to submit their responses to the quiz questions and the backend will calculate and return their results.
 
-<img width="875" alt="submitResults" src="https://github.com/Gigi-Pons/QuizApplication/assets/77705265/252c772c-d993-4d88-b292-6f43270bcbae">
+<img width="875" alt="submitResults" src="https://github.com/Gigi-Pons/QuizApplication/assets/77705265/252c772c-d993-4d88-b292-6f43270bcbae">  
+
+### Credit
+This project was inspired from Telusko on YouTube.
 
 
 
