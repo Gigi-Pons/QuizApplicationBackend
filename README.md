@@ -5,7 +5,7 @@ This quiz application allows administrators to create and manage questions.  It 
 The applciation is using Spring Boot backend to handle business logic and data management through PostgreSQL database.  
 
 ## The components 
-**Entities**  
+### **Entities**  
 - Query
 - Quiz
 
