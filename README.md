@@ -25,6 +25,10 @@ The applciation is using Spring Boot backend to handle business logic and data m
 - QuestionWrapper: Encapsulates the details about the questions to be transferred between layers.
 - Response: Encapsulates the details about the responses to specific quiz questions.
 
-## The Functionalities
+## The Database
+Here is an overview of the current database and its contents.  It currently holds 10 questions in a trivia fashion with its respective answers.  
+
+<img width="1528" alt="Database" src="https://github.com/Gigi-Pons/QuizApplication/assets/77705265/5857dded-297f-4452-bdcc-6a9862897be9">
+
 
 
