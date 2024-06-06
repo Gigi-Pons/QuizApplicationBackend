@@ -17,7 +17,14 @@ The applciation is using Spring Boot backend to handle business logic and data m
 - QueryService: The business logic for all the questions.
 - QuizService: The business logic for every quiz created.
 
-### ** Repositories**
-- QueryDao: Managing questions through data access object.
-- QuizDao: Managing quizzes thorugh data access object.
+### **Repositories**
+- QueryDao: Managing questions through data access object, which interacts with the database.
+- QuizDao: Managing quizzes thorugh data access object, which interacts with the database.
+
+### **Data Transfer Objects**
+- QuestionWrapper: Encapsulates the details about the questions to be transferred between layers.
+- Response: Encapsulates the details about the responses to specific quiz questions.
+
+## The Functionalities
+
 
