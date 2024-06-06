@@ -28,7 +28,15 @@ The applciation is using Spring Boot backend to handle business logic and data m
 ## The Database
 Here is an overview of the current database and its contents.  It currently holds 10 questions in a trivia fashion with its respective answers.  
 
-<img width="1528" alt="Database" src="https://github.com/Gigi-Pons/QuizApplication/assets/77705265/5857dded-297f-4452-bdcc-6a9862897be9">
+<img width="1528" alt="Database" src="https://github.com/Gigi-Pons/QuizApplication/assets/77705265/5857dded-297f-4452-bdcc-6a9862897be9">  
+
+## The API Endpoints  
+
+### **allQueries**
+Allows the retrieval of all questions.  
+
+<img width="1591" alt="allQueries" src="https://github.com/Gigi-Pons/QuizApplication/assets/77705265/acd79c8d-d621-4a4b-a4f5-c81cde6ded24">
+
 
 
 
